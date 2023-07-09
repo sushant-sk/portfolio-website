@@ -1,0 +1,135 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin-bottom: 5%;
+    width: 100%;
+    overflow-x: hidden;
+    background-color: white;
+}
+
+
+.naviagtion-bar{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    width: 150px;
+    padding-right: 0%;
+}
+
+.sign-in{
+    width: auto;
+}
+
+
+.navbar-brand{
+    padding-left: 3%;
+    font-family: 'Belanosima', sans-serif;
+    font-size: 30px;
+    
+}
+
+.navbar-collapse{
+    padding-left: 48%;
+}
+
+@media only screen and (max-width: 1514px) {
+    .navbar-collapse{
+        padding-left: 35%;
+    }
+} 
+
+@media only screen and (max-width: 1172px) {
+    .navbar-collapse{
+        padding-left: 23%;
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1004px) {
+    .navbar-collapse{
+        padding-left: 15%;
+        max-width: 100%;
+
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .navbar-collapse{
+        padding-left: 3%;
+    }
+    .nav-link{
+        width: 120px;
+    }
+} 
+
+
+
+.maincontent{
+    padding: 8% 15%;
+}
+
+
+
+.mainimg{
+    height: 28%;
+    width: 28%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+
+
+
+
+.div2{
+    height: 15px;
+}
+
+.social_media{
+    font-size: 200%;
+    float: right;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+
+
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 30px;
+}
+
+.container{
+    border-style: none;
+    display: block;
+}
+
+.new_div{
+    margin-top: 80px;
+    border-style: dotted;
+    border-width: 10px 0px 0px 0px;
+    width: 40%;
+    border-color: #9384D1;    
+}
+
+.skills{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.skills-text{
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+}
+
